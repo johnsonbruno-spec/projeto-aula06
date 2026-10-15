@@ -1,2 +1,1 @@
-# Aplicação principal
-# Ajuste finalizado
+# Codigo limpo
