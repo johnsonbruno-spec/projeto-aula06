@@ -1,0 +1,23 @@
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ambientes Virtuais e Dependências
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Compilados e Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos Sensíveis e de Configuração
+.env
+.env.local
+*.secrets
